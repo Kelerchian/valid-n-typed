@@ -1,5 +1,5 @@
-import { Validator, CommonRules } from "validval";
-import type { TypeUtils } from "validval";
+import { Validator, CommonRules } from "valid-n-typed";
+import type { TypeUtils } from "valid-n-typed";
 
 const someURLString = "some://url";
 const nonURLString = "not-some-url";
