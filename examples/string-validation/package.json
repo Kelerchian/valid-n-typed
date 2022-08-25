@@ -1,0 +1,16 @@
+{
+  "name": "string-validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.7.13",
+    "typescript": "^4.7.4",
+    "validval": "file:../.."
+  }
+}
